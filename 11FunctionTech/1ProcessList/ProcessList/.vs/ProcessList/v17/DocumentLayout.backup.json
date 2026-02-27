@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinHackerTech\\11FunctionTech\\1ProcessList\\ProcessList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E843F7-7CB8-488D-813B-BEA970F52BBD}|ProcessList.vcxproj|D:\\WINDOWS KITS\\10\\INCLUDE\\10.0.26100.0\\UM\\TLHELP32.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TlHelp32.h",
+              "DocumentMoniker": "D:\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\TlHelp32.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\TlHelp32.h",
+              "ToolTip": "D:\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\TlHelp32.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\TlHelp32.h",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAMwJgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-27T08:24:22.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
